@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+yatoivenv
+db.sqlite3
+.DS_Store
+/notes
+local_settings.py
